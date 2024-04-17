@@ -1,9 +1,11 @@
 # SPDX-FileCopyrightText: 2024 Jason Pena <jasonpena@awkless.com>
 # SPDX-License-Identifier: MIT
 
+# Page settings...
 title: Awklesses' Dotfiles
 description: My collection of dotfile configurations and tooling
 
-remote_theme: pages-themes/hacker@v0.2.0
+# Theme settings...
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme
