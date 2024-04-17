@@ -12,8 +12,9 @@ not work for you.
 
 # Simple Dotfile Manager in Rust
 
-Source code: <https://www.github.com/awkless-dotfiles/dm-rs>
-Design documentation: <https://dotfiles.awkless.com/dm-rs>
+> Source code: <https://www.github.com/awkless-dotfiles/dm-rs>
+
+> Design documentation: <https://dotfiles.awkless.com/dm-rs>
 
 The dm-rs project is a simple dotfile manager written in Rust. The application
 uses Git as the primary version control system to manage and organize the user's
