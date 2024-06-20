@@ -12,11 +12,11 @@ not work for you.
 
 # Simple Dotfile Manager in Rust
 
-> Source code: <https://www.github.com/awkless-dotfiles/sdmr>
+> Source code: <https://www.github.com/awkless-dotfiles/rally>
 
-> Design documentation: <https://dotfiles.awkless.com/sdmr>
+> Design documentation: <https://dotfiles.awkless.com/rally>
 
-The sdmr project is a simple dotfile manager written in Rust. The application
+The Rally project is a simple dotfile manager written in Rust. The application
 uses Git as the primary version control system to manage and organize the user's
 dotfiles. The idea is to treat the user’s $HOME directory as a Git repository
 such that their $HOME is considered the working tree, and some external
